@@ -1,0 +1,4 @@
+﻿  TrieAutocomplete.cpp
+c:\spring 2020\projectsinresume\trieautocomplete\trieautocomplete\trieautocomplete.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\spring 2020\projectsinresume\trieautocomplete\trieautocomplete\trieautocomplete.cpp(173): warning C4715: 'printAutoSuggestions': not all control paths return a value
+  TrieAutocomplete.vcxproj -> C:\Spring 2020\ProjectsInResume\TrieAutocomplete\Debug\TrieAutocomplete.exe
